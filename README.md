@@ -12,6 +12,10 @@ Bicep Curl and Plank Posture Tracker: Developed a computer vision system using M
 - Mediapipe and OpenCV
 - Cross platform
 
+## Methodology: 
+
+The system uses computer vision technology with Mediapipe and OpenCV to track the movement of the user's arms and body during bicep curls and planks. The camera captures the video of the user's movement, which is then processed by the algorithm to count the number of bicep curls performed and to detect any deviations in the user's posture during a plank. The algorithm also provides feedback to the user, correcting their posture in real-time.
+
 
 ## Run Locally
 
