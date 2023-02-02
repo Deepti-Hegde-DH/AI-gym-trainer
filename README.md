@@ -38,6 +38,6 @@ Install dependencies
 
 This project has the potential to revolutionize the fitness industry by providing an effective, accurate, and convenient solution for tracking exercise performance. With the ability to correct posture in real-time, users can be confident that they are performing exercises correctly and avoiding potential injuries.
 
-##Future Work
+## Future Work
 
 The project can be expanded to include tracking of additional exercises and to provide more comprehensive feedback and analysis. Additionally, the system can be integrated with wearable devices and fitness apps to provide a more seamless and integrated experience for users.
