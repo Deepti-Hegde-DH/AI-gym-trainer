@@ -45,3 +45,9 @@ This project has the potential to revolutionize the fitness industry by providin
 ## Future Work
 
 The project can be expanded to include tracking of additional exercises and to provide more comprehensive feedback and analysis. Additionally, the system can be integrated with wearable devices and fitness apps to provide a more seamless and integrated experience for users.
+
+## Authors
+
+- [@Deepti-Hegde-DH](https://github.com/Deepti-Hegde-DH)
+- [@harshit-wadhwani](https://github.com/harshit-wadhwani)
+- [@kesu-1407l](https://github.com/Kesu-1407)
